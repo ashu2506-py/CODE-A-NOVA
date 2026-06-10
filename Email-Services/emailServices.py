@@ -1,8 +1,8 @@
 import smtplib
 from email.message import EmailMessage
 
-sender_address= "codewithcodex2106@gmail.com"
-app_password="abrfmczyvbyksiig"
+sender_address= " "
+app_password=""
 
 reciever=input("Enter reciever email:")
 subject=input("Enter subject: ")
